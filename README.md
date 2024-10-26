@@ -1,6 +1,7 @@
 ## 👋  Hi! I'm elrondforwin.
 
-* A Minecraft Developer from Türkiye 🇹🇷
+* A Minecraft Mod and Modpack Developer from Türkiye 🇹🇷
+
 ### Contacts
 * Discord: elrondforwin
 * [Twitter / X](https://x.com/ElroNdForWin)
