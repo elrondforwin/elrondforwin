@@ -3,7 +3,7 @@
 * A Minecraft Mod and Modpack Developer
 * From Türkiye 🇹🇷 
 * 16 Level
-* Using Windows 11, used Linux (arch btw)
+* Using Windows 11
 
 ### Contacts
 * Discord: elrondforwin
