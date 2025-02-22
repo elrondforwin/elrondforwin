@@ -8,7 +8,7 @@
 ### Contacts
 * Discord: elrondforwin
 * [Twitter / X](https://x.com/ElroNdForWin)
-* Mail: elrond@blocksmiths.net
+* Mail: elrondforwin@gmail.com
 
 ### My Setup
 * Ryzen 5 5600
