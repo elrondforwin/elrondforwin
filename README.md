@@ -3,12 +3,12 @@
 * A Minecraft Mod and Modpack Developer
 * From Türkiye 🇹🇷 
 * 16 Level
-* Using Windows 11
+* Using CachyOS
 
 ### Contacts
 * Discord: elrondforwin
 * [Twitter / X](https://x.com/ElroNdForWin)
-* Mail: elrond@blocksmiths.net
+* Mail: elrondforwin@gmail.com
 
 ### My Setup
 * Ryzen 5 5600
