@@ -2,9 +2,8 @@
 
 * A Minecraft Mod and Modpack Developer
 * From Türkiye 🇹🇷 
-* 16 Level
-* Using CachyOS
-
+* 16 Level\
+  
 ### Contacts
 * Discord: elrondforwin
 * [Twitter / X](https://x.com/ElroNdForWin)
