@@ -1,8 +1,8 @@
 ## 👋  Hi! I'm elrondforwin.
 
-* A Minecraft Mod and Modpack Developer
 * From Türkiye 🇹🇷 
-* 16 Level\
+* 17 Level
+* Linux enthusiast
   
 ### Contacts
 * Discord: elrondforwin
